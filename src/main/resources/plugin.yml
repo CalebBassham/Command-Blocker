@@ -1,0 +1,4 @@
+name: CommandBlocker
+author: Caleb Bassham
+version: 1.0.0
+main: me.calebbassham.commandblocker.CommandBlocker

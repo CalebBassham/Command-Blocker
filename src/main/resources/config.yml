@@ -1,0 +1,5 @@
+blocked commands:
+  - me
+  - minecraft:me
+
+blocked message: "&cThis command is blocked."
